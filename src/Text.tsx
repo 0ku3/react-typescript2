@@ -1,4 +1,4 @@
-import { FC, VFC } from "react";
+import { VFC } from "react";
 
 type Props = {
   color: string;
